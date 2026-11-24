@@ -1,0 +1,1 @@
+Put final PDF documents here. Do not upload private information you do not want public. Add download links to the corresponding HTML pages only after files exist. Suggested filenames: position-paper.pdf, status-report.pdf, resume.pdf, outside-course.pdf.
